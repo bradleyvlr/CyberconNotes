@@ -1,0 +1,5 @@
+1	Answer Phone and start Ticket
+2	Complete First Ticket
+3	Open First VM
+4	First Hardware Upgrade/Exchange
+5	Complete Test For Single Shift
