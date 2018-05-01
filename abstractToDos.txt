@@ -1,0 +1,7 @@
+1	Watch Videos on maintaining Window Servers
+2	Familiarize myself with VMWare and KVM for real
+3	BIND
+4	Networking In General
+5	Mess Around on Pogo Linux
+6	Refresh on Apache
+
