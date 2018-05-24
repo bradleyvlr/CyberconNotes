@@ -1,5 +1,5 @@
 1	Answer Phone and start Ticket
-2	Complete First Ticket
+2	Complete First Ticket					DONE
 3	Open First VM						DONE
 4	First Hardware Upgrade/Exchange				DONE
 5	Complete Test For Single Shift

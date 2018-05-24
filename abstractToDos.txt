@@ -1,8 +1,8 @@
 3	BIND
 4	Networking In General
-8	cpanel tutorial
-9	wordpress tutorial
 10	CS50
 11	JunOS/PFSense
-
+12	Cisco/IOS
+13	Fuck with VMs
+14	Have Tony or Tarek show me how to do Bestnet
 

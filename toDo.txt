@@ -1,10 +1,7 @@
-Clean the Car
-Start Packing
-Set up Arch ISO
-Talk to Shaun
-Change Desktop to ROSA
 Install bootable parabola USB
-Start Reading Tanenbaum book
 Start RetroPie with Gen 1
 Completely configure Web Server
 Start media server
+Finish Arch Install with Sway
+Complete HelloChinese
+Pack For China
