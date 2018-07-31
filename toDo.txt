@@ -1,5 +1,0 @@
-Install bootable parabola USB
-Start RetroPie with Gen 1
-Completely configure Web Server
-Start media server
-Finish Arch Install with Sway
